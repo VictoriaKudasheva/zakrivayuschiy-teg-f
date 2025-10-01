@@ -226,6 +226,7 @@ body {
 
 .floppy__icon {
   fill: currentColor;
+  align-self: center;
 }
 
 .button__text {
@@ -297,10 +298,6 @@ body {
   line-height: 21px;
   text-align: left;
   text-transform: uppercase;
-}
-
-.floppy__icon {
-  align-self: center;
 }
 
 .floppy__icon_dynamic {
